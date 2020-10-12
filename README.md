@@ -8,7 +8,7 @@
 
 #### Languages And Tools
  - C , Java
- - HTML5 , CSS , JAVASCRIPT , JQUERY
+ - HTML5 , CSS , JAVASCRIPT , JQUERY , NODE.JS , REACT.JS
  - Android
  
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AppleTrick)](https://github.com/anuraghazra/github-readme-stats)
