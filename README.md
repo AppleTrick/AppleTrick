@@ -22,9 +22,9 @@
 
 # MY Project
 
-- ![Animalnation🐶](https://github.com/AppleTrick/KH_SemiProject)
-- ![Swith📖](https://github.com/AppleTrick/Final-Front-end)
-- ![JS-TDL🙂](https://github.com/AppleTrick/JS_ToDoList)
+- [Animalnation🐶](https://github.com/AppleTrick/KH_SemiProject)
+- [Swith📖](https://github.com/AppleTrick/Final-Front-end)
+- [JS-TDL🙂](https://github.com/AppleTrick/JS_ToDoList)
 
 ---
 
