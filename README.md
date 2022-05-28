@@ -1,7 +1,5 @@
 # PARK CHANG HEE
 
----
-
 안녕하세요 개발자 박창희 입니다.
 
 2015.03 ~ 2018.02 동서울대학교 🏛
@@ -23,5 +21,11 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java)
 
 # MY Project
+
+- ![Animalnation🐶](https://github.com/AppleTrick/KH_SemiProject)
+- ![Swith📖](https://github.com/AppleTrick/Final-Front-end)
+- ![JS-TDL🙂](https://github.com/AppleTrick/JS_ToDoList)
+
+---
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AppleTrick)](https://github.com/anuraghazra/github-readme-stats)
