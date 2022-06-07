@@ -22,10 +22,23 @@
 
 # MY Project
 
+| ProjectName  | Link           |
+| ------------ | -------------- |
+| Animalnation | github youtube |
+| Swith        | github youtube |
+| JS-TDL       | github Link    |
+| Myblog       | github Link    |
+
+[![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](github.com)
+
+![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)
+
+![Link](https://img.shields.io/badge/-Link-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=ffffff)
+
 - [Animalnation🐶](https://github.com/AppleTrick/KH_SemiProject)
 - [Swith📖](https://github.com/AppleTrick/Final-Front-end)
 - [JS-TDL🙂](https://github.com/AppleTrick/JS_ToDoList)
 
----
+# MY Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AppleTrick)](https://github.com/anuraghazra/github-readme-stats)
