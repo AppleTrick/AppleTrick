@@ -22,22 +22,12 @@
 
 # MY Project
 
-| ProjectName  | Link                                                                                                                                                                                                                                                                                                            |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Animalnation | [![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/KH_SemiProject) [![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=BJOBXCIP0ik)  |
-| Swith        | [![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/Final-Front-end) [![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=AUmo7E-86VA) |
-| JS-TDL       | [![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/JS_ToDoList) [![Link](https://img.shields.io/badge/-Link-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=ffffff)](https://appletrick.github.io/JS_ToDoList/)        |
-| Myblog       | [![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/Appletrick.github.io) [![Link](https://img.shields.io/badge/-Link-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=ffffff)](https://appletrick.github.io/)           |
-
-[![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/Appletrick.github.io)
-
-[![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=BJOBXCIP0ik)
-
-[![Link](https://img.shields.io/badge/-Link-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=ffffff)](https://appletrick.github.io/JS_ToDoList/)
-
-- [Animalnation🐶](https://github.com/AppleTrick/KH_SemiProject)
-- [Swith📖](https://github.com/AppleTrick/Final-Front-end)
-- [JS-TDL🙂](https://github.com/AppleTrick/JS_ToDoList)
+| ProjectName  | description                                                                                                    | Link                                                                                                                                                                                                                                                                                                            |
+| ------------ | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Animalnation | 유기동물 데이터를 이용하여 사용자들에게 입양권장 및 추가적인 데이터를 소개한 서비스입니다                      | [![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/KH_SemiProject) [![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=BJOBXCIP0ik)  |
+| Swith        | Swith 프로젝트는 자신의 주변 사람들과 스터디 모임을 쉽게 갖을 수 있도록 사용자에게 도움을 주는 서비스 프로젝트 | [![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/Final-Front-end) [![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=AUmo7E-86VA) |
+| JS-TDL       | JS로 만든 To-Do-List!                                                                                          | [![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/JS_ToDoList) [![Link](https://img.shields.io/badge/-Link-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=ffffff)](https://appletrick.github.io/JS_ToDoList/)        |
+| Myblog       | 공부한 내용을 지속적으로 업데이트하는 블로그                                                                   | [![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/Appletrick.github.io) [![Link](https://img.shields.io/badge/-Link-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=ffffff)](https://appletrick.github.io/)           |
 
 # MY Stats
 
