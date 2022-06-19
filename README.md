@@ -19,6 +19,7 @@
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux)
 
 # MY Project
 
