@@ -1,42 +1,167 @@
-# PARK CHANG HEE
+# 👨‍💻 박창희 (PARK CHANG HEE)
 
-안녕하세요 개발자 박창희 입니다.
+**문제 해결을 좋아하는 풀스택 개발자입니다.**  
+사용자 중심의 웹 서비스 개발에 관심이 많으며, 특히 **React 기반 프론트엔드**와 **Java/Node.js 백엔드** 개발에 집중하고 있습니다.  
+팀워크를 통한 협업과 지속적인 학습을 통해 성장하는 개발자가 되고자 합니다.
 
-2015.03 ~ 2018.02 동서울대학교 🏛
+---
 
-2018.06 ~ 2020.06 군대 🇰🇷
+## 🎯 **About Me**
 
-2020.11 ~ 2021.07 KH 정보교육원 수료 💯
+- 🏛 **2015.03 ~ 2018.02** 동서울대학교 컴퓨터소프트웨어과
+- 🇰🇷 **2018.06 ~ 2020.06** 군 복무 완료
+- 💯 **2020.11 ~ 2021.07** KH 정보교육원 수료 (Java 풀스택 과정)
+- 🖥 **2021.03 ~ 2022.02** 국가평생교육진흥원 학사 졸업
+- 🚀 **2025.06 ~** [SSAFY 14기](https://www.ssafy.com) 진행중
 
-2021.03 ~ 2022.02 국가평생교육진흥원 학사졸업 🖥
+**현재**: 개인 프로젝트와 알고리즘 스터디를 통해 실력 향상에 집중하고 있습니다.
 
-2025.06 ~ SSAFY 14기 
+---
 
+## 🛠 **Tech Stack**
 
-# MY STACK
+### **Frontend**
 
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=ffffff)
+
+### **Backend & Database**
+
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=ffffff)
+
+### **Mobile & Tools**
+
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=Redux)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
 
-# MY Project
+---
 
-| <h3> ProjectName </h3> &nbsp; &nbsp; &nbsp; &nbsp; | <h3> description</h3>                                                                                          | <h3>Link</h3>                                                                                                                                                                                                                                                                                                   |
-| -------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <h4>Animalnation🐶</h4>                            | 사용자들에게 유기동물 입양권장 및 추가적인 데이터를 소개한 서비스입니다                                        | [![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/KH_SemiProject) [![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=BJOBXCIP0ik)  |
-| <h4>Swith📖</h4>                                   | Swith 프로젝트는 자신의 주변 사람들과 스터디 모임을 쉽게 갖을 수 있도록 사용자에게 도움을 주는 서비스 프로젝트 | [![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/Final-Front-end) [![Youtube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=AUmo7E-86VA) |
-| <h4>JS-TDL👍🏼</h4>                                  | JS로 만든 To-Do-List!                                                                                          | [![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/JS_ToDoList) [![Link](https://img.shields.io/badge/-바로가기-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=ffffff)](https://appletrick.github.io/JS_ToDoList/)    |
-| <h4>Myblog🇰🇷</h4>                                  | 공부한 내용을 지속적으로 업데이트하는 블로그                                                                   | [![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/Appletrick.github.io) [![Link](https://img.shields.io/badge/-바로가기-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=ffffff)](https://appletrick.github.io/)       |
-| <h4>Loaple</h4>                                    | 로스트아크 일정관리를 도와주는 웹 어플리케이션 프로젝트                                                        | [![GitHub](https://img.shields.io/badge/-Git-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/loaple) [![Link](https://img.shields.io/badge/-바로가기-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=ffffff)](https://loaple.vercel.app/)                        |
+## 📂 **Featured Projects**
 
-# MY Stats
+### 🎮 **Loaple** - 로스트아크 일정 관리 웹앱
+
+> 게임 유저들의 일정 관리를 돕는 실용적인 웹 애플리케이션
+
+**🔧 Tech Stack**: React, JavaScript, CSS3  
+**⏰ 개발기간**: 개인 프로젝트 (지속 개발 중)  
+**🎯 주요 기능**:
+
+- 게임 내 일정 자동 계산 및 알림
+- 반응형 웹 디자인 적용
+- Vercel을 통한 자동 배포
+
+[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/loaple)
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-4285F4?style=flat-square&logo=GoogleChrome&logoColor=ffffff)](https://loaple.vercel.app/)
+
+---
+
+### 📖 **Swith** - 스터디 모임 매칭 플랫폼
+
+> 주변 사람들과 쉽게 스터디 모임을 만들 수 있도록 돕는 웹 서비스
+
+**🔧 Tech Stack**: React, Java, Spring Framework, Oracle DB  
+**⏰ 개발기간**: 2021.06 ~ 2021.07 (6주, 4인 팀 프로젝트)  
+**👨‍💻 담당역할**: 프론트엔드 개발 (React), API 연동  
+**🎯 주요 성과**:
+
+- REST API 설계 및 프론트엔드 연동
+- 반응형 UI/UX 구현
+- 팀 협업을 통한 풀스택 개발 경험
+
+[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/Final-Front-end)
+[![Demo Video](https://img.shields.io/badge/-Demo%20Video-FF0000?style=flat-square&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=AUmo7E-86VA)
+
+---
+
+### 🐶 **Animalnation** - 유기동물 입양 서비스
+
+> 유기동물 입양을 장려하고 추가적인 데이터를 제공하는 사회적 가치 실현 프로젝트
+
+**🔧 Tech Stack**: Java, JSP, Oracle DB, HTML/CSS/JavaScript  
+**⏰ 개발기간**: 2021.05 ~ 2021.06 (4주, 4인 팀 프로젝트)  
+**👨‍💻 담당역할**: 백엔드 개발, 데이터베이스 설계  
+**🎯 주요 성과**:
+
+- 공공 API 활용한 데이터 연동
+- MVC 패턴을 활용한 웹 애플리케이션 구조 설계
+- 팀원들과의 협업을 통한 프로젝트 완성
+
+[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/KH_SemiProject)
+[![Demo Video](https://img.shields.io/badge/-Demo%20Video-FF0000?style=flat-square&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/watch?v=BJOBXCIP0ik)
+
+---
+
+### 📝 **Personal Blog** - 개발 학습 기록
+
+> 공부한 내용을 정리하고 꾸준히 업데이트하는 개발 블로그
+
+**🔧 Tech Stack**: Jekyll, GitHub Pages, Markdown  
+**🎯 주요 내용**:
+
+- 개발 공부 내용 정리 및 기록
+- 프로젝트 회고 및 개선사항 분석
+- 지속적인 학습 의지 표현
+
+[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/Appletrick.github.io)
+[![Blog](https://img.shields.io/badge/-Visit%20Blog-4285F4?style=flat-square&logo=GoogleChrome&logoColor=ffffff)](https://appletrick.github.io/)
+
+---
+
+### 👍 **JS-TDL** - JavaScript Todo List
+
+> 바닐라 JavaScript로 구현한 깔끔한 할 일 관리 애플리케이션
+
+**🔧 Tech Stack**: Vanilla JavaScript, HTML5, CSS3  
+**🎯 학습 목표**: JavaScript 기본기 다지기, DOM 조작 숙달
+
+[![GitHub](https://img.shields.io/badge/-Repository-181717?style=flat-square&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick/JS_ToDoList)
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-4285F4?style=flat-square&logo=GoogleChrome&logoColor=ffffff)](https://appletrick.github.io/JS_ToDoList/)
+
+---
+
+## 🎯 **Interest & Goals**
+
+- **사용자 중심 서비스 개발**: 실제 사용자가 필요로 하는 기능을 구현하는 개발자
+- **클린 코드 작성**: 가독성 높고 유지보수가 쉬운 코드 작성에 관심
+- **지속적 학습**: 새로운 기술과 트렌드를 꾸준히 학습하고 적용
+- **팀워크와 소통**: 협업을 통해 더 나은 결과물을 만들어내는 개발자
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=akkadia)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AppleTrick&show_icons=true&theme=default&hide_border=true)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AppleTrick)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AppleTrick&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+## 📞 **Contact Me**
+
+저와 함께 프로젝트를 진행하거나 개발 이야기를 나누고 싶으시다면 언제든 연락주세요!
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=ffffff)](https://github.com/AppleTrick)
+[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=Blogger&logoColor=ffffff)](https://appletrick.github.io/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:changhee.dev@gmail.com)
+
+---
+
+<div align="center">
+
+**"코드로 세상을 더 편리하게 만들고 싶은 개발자 박창희입니다."**
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAppleTrick&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
+</div>
