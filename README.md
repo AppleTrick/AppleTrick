@@ -10,6 +10,9 @@
 
 2021.03 ~ 2022.02 국가평생교육진흥원 학사졸업 🖥
 
+2025.06 ~ SSAFY 14기 
+
+
 # MY STACK
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
