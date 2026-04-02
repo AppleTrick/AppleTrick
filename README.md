@@ -62,10 +62,3 @@ Currently finishing up **SSAFY 14th** — shipping AI-integrated products and ex
 </div>
 
 
----
-
-## 📬 Contact
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=fff)](mailto:changhee.dev@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=tistory&logoColor=fff)](https://appletrick.tistory.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/AppleTrick)
