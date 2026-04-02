@@ -9,6 +9,8 @@ Currently finishing up **SSAFY 14th** — shipping AI-integrated products and ex
 
 ## 🛠 Tech Stack
 
+<div align="center">
+
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
@@ -32,9 +34,13 @@ Currently finishing up **SSAFY 14th** — shipping AI-integrated products and ex
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
 
+</div>
+
 ---
 
 ## 📂 Projects
+
+<div align="center">
 
 | Project | Description | Stack |
 |--------|-------------|-------|
@@ -43,6 +49,7 @@ Currently finishing up **SSAFY 14th** — shipping AI-integrated products and ex
 | [**🤖 VQA AI Challenge**](https://github.com/AppleTrick/ssafy14-ai-challenge-2025) | LoRA fine-tuning · score 0.237 → 0.916 · **2nd place** | Python, Qwen, LoRA |
 | **🏠 Real Estate Chatbot** | NL2SQL with LLM · 1.8M records · query 5s → 1s | Spring AI, GPT, React |
 
+</div>
 
 ---
 
