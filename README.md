@@ -44,9 +44,9 @@ Currently finishing up **SSAFY 14th** — shipping AI-integrated products and ex
 
 | Project | Description | Stack |
 |--------|-------------|-------|
+| [**🏠 이집내집**](https://github.com/ijip-naejip) | NL2SQL with LLM · 1.8M records · query 5s → 1s | Spring AI, GPT, React |
 | [**💊 약속 (Yaksok)**](https://github.com/AppleTrick/yaksok) | YOLO11 + OCR pipeline · 75s → 16s · AI supplement management | Spring Boot, FastAPI, Next.js |
 | [**💸 싸다구 (Ssadagu)**](https://github.com/AppleTrick/Ssadagu) | P2P fintech · real-time messaging · distributed tx design | Spring Boot, React Native, Turborepo |
-| [**🏠 이집내집**](https://github.com/ijip-naejip) | NL2SQL with LLM · 1.8M records · query 5s → 1s | Spring AI, GPT, React |
 | [**🤖 VQA AI Challenge**](https://github.com/AppleTrick/ssafy14-ai-challenge-2025) | LoRA fine-tuning · score 0.237 → 0.916 · **2nd place** | Python, Qwen, LoRA |
 
 </div>
